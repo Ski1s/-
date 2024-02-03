@@ -2,7 +2,6 @@
 <html lang="ru">
 <head>
     <div class="maintext">
-
     <meta charset="UTF-8">
     <title>время настало</title>
 </head>
