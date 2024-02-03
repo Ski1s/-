@@ -24,7 +24,6 @@
             <font color="white"><i> </i> <a href="http://localhost:8080/%D1%81%D0%B0%D0%B9%D1%82%202.html" target="_blank"><i class="fa-brands fa-telegram" >
         </i> <font color="white">
             next ---></a>
-           
             <div class="maintext"> 
                 </p>    
     </center>
